@@ -33,4 +33,4 @@ This project is imitation a taxi service. Project works on Java Servlets and SQL
 * Java Servlets `v.4.0.1`
 * Tomcat `v.8.5.87`
 # Authors
-[Maksym Yashyn](https://www.linkedin.com/in/maksym-yashyn-a6a486247/)
+[Maksym Yashyn](https://www.linkedin.com/in/maksym-yashyn-dnipro/)
